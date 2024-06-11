@@ -9,10 +9,10 @@
 </template>
 
 <script>
-import Header from '~/components/Header.vue'
-import HomeHeader from '~/components/HomeHeader.vue'
-import Footer from '~/components/Footer.vue'
-import Gototop from '~/components/Gototop.vue'
+import Header from '~/components/Header'
+import HomeHeader from '~/components/HomeHeader'
+import Footer from '~/components/Footer'
+import Gototop from '~/components/Gototop'
 
 export default {
   components: {
